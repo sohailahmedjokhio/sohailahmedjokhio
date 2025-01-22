@@ -1,17 +1,17 @@
 <h1 align="center">Hello, It's me Sohail Ahmed.</h1>
-<h3 align="center">A passionate Python Developer from Pakistan</h3>
+<h3 align="center">A passionate learner from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohailahmedjokhio&label=Profile%20views&color=0e75b6&style=flat" alt="sohailahmedjokhio" /> </p>
 
-- I’m currently working on [Tip Calculator](https://github.com/sohailahmedjokhio/tip-calculator-in-python)
+- I’m currently working on [Kanban - Task Management Website](https://github.com/sohailahmedjokhio/kanban)
 
-- I’m currently learning **Python, Version Control on Coursera and 100 projects in Python from Udemy.**
+- I’m currently learning **Python, Version Control on Coursera, and 100 projects in Python from Udemy.**
 
 - All of my projects are available at [https://github.com/sohailahmedjokhio](https://github.com/sohailahmedjokhio)
 
-- Ask me about **GitHub, Python, django, OpenCV, HTML, CSS, WordPress, AWS Cloud**
+- Ask me about **GitHub, Python, Django, Flask, Java, C++, OpenCV, HTML, CSS, WordPress, AWS Cloud**
 
-- How to reach me **jansohail818@gmail.com**
+- How to reach me **sohail.ahmed.szabist@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
